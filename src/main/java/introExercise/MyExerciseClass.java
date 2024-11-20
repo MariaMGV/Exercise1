@@ -9,9 +9,15 @@ public class MyExerciseClass
 
     public static void main(String[] args) {
         printHello();
+        printGitExercise()
+
 
     }
-    //git exercise here
+
+    public static void printGitExercise(){
+       System.out.println("git exercise here");
+   }
+
 
 }
 
